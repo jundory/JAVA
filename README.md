@@ -6,4 +6,7 @@
 
 (2) ui 관련 
 - 모듈을 생성했는데 패키지 생성이 안될 시 : https://whyprogrammer.tistory.com/568
-- 
+ 
+
+
+vscode로 스프링 사용하기 : https://velog.io/@suld2495/VSCode%EC%97%90%EC%84%9C-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
